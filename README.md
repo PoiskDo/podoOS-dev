@@ -1,7 +1,6 @@
 # podoOS-dev
-기존에 스스로 만들던 os는 너무 시간이 오래걸리고 감당하기가 어려워 개발 중단하였습니다
-앞으로 PoiskDo는 kdb라는 리녹스 운영체제로 개조할 예정 입니다.
-# THIS OS IS NO LONGER AVAILBLE
+**이 OS는 더 이상 개발되지 않습니다. 저희들은 이제 kubuntu를 기반으로 os를 만들것이며, 언젠간 진짜로 os를 만들날이 올지도 모르니 보고 기다려보세요!
+**THIS OS IS NO LONGER AVAILBLE. We will now make an os based on kubuntu, so look forward to seeing and waiting for the day to come when we will actually make an os! (translated lol)
 
 
 
